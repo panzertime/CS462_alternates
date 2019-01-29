@@ -1,0 +1,78 @@
+[submodule "journal"]
+	path = journal
+	url = https://github.com/Picolab/journal.git
+[submodule "asdf"]
+	path = asdf
+	url = https://github.com/johnlarson/asdf.git
+[submodule "registration"]
+	path = registration
+	url = https://github.com/b1conrad/registration.git
+[submodule "KRL-rulesets"]
+	path = KRL-rulesets
+	url = https://github.com/dannyharding10/KRL-rulesets.git
+[submodule "echo"]
+	path = echo
+	url = https://github.com/KRLRulesets/echo.git
+[submodule "esproto"]
+	path = esproto
+	url = https://github.com/Picolab/esproto.git
+[submodule "pico_lessons"]
+	path = pico_lessons
+	url = https://github.com/Picolab/pico_lessons.git
+[submodule "RPi-Smart-Sensor"]
+	path = RPi-Smart-Sensor
+	url = https://github.com/Picolab/RPi-Smart-Sensor.git
+[submodule "CS462Pico"]
+	path = CS462Pico
+	url = https://github.com/Davenporten/CS462Pico.git
+[submodule "krl-sample"]
+	path = krl-sample
+	url = https://github.com/b1conrad/krl-sample.git
+[submodule "Twilio_SMS"]
+	path = Twilio_SMS
+	url = https://github.com/KRLRulesets/Twilio_SMS.git
+[submodule "JournalApp"]
+	path = JournalApp
+	url = https://github.com/Picolab/JournalApp.git
+[submodule "pico1"]
+	path = pico1
+	url = https://github.com/parsonsjo1/pico1.git
+[submodule "SafeAndMine"]
+	path = SafeAndMine
+	url = https://github.com/Picolab/SafeAndMine.git
+[submodule "pico_multiple"]
+	path = pico_multiple
+	url = https://github.com/parsonsjo1/pico_multiple.git
+[submodule "Dropbox-module"]
+	path = Dropbox-module
+	url = https://github.com/KRLRulesets/Dropbox-module.git
+[submodule "bofm"]
+	path = bofm
+	url = https://github.com/b1conrad/bofm.git
+[submodule "Wovyn"]
+	path = Wovyn
+	url = https://github.com/Picolab/Wovyn.git
+[submodule "insteon"]
+	path = insteon
+	url = https://github.com/Picolab/insteon.git
+[submodule "krl"]
+	path = krl
+	url = https://github.com/Brian-Black/krl.git
+[submodule "counters"]
+	path = counters
+	url = https://github.com/b1conrad/counters.git
+[submodule "Temperature-App"]
+	path = Temperature-App
+	url = https://github.com/KRLRulesets/Temperature-App.git
+[submodule "enMotion"]
+	path = enMotion
+	url = https://github.com/Picolab/enMotion.git
+[submodule "notifications"]
+	path = notifications
+	url = https://github.com/Picolab/notifications.git
+[submodule "musicbox-demo"]
+	path = musicbox-demo
+	url = https://github.com/Picolab/musicbox-demo.git
+[submodule "ManifoldClosetDemo"]
+	path = ManifoldClosetDemo
+	url = https://github.com/Picolab/ManifoldClosetDemo.git
